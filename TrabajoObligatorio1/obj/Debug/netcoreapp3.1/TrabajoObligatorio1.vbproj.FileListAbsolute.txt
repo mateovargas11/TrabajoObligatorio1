@@ -1,0 +1,13 @@
+C:\Users\matva\source\repos\TrabajoObligatorio1\TrabajoObligatorio1\bin\Debug\netcoreapp3.1\TrabajoObligatorio1.exe
+C:\Users\matva\source\repos\TrabajoObligatorio1\TrabajoObligatorio1\bin\Debug\netcoreapp3.1\TrabajoObligatorio1.deps.json
+C:\Users\matva\source\repos\TrabajoObligatorio1\TrabajoObligatorio1\bin\Debug\netcoreapp3.1\TrabajoObligatorio1.runtimeconfig.json
+C:\Users\matva\source\repos\TrabajoObligatorio1\TrabajoObligatorio1\bin\Debug\netcoreapp3.1\TrabajoObligatorio1.runtimeconfig.dev.json
+C:\Users\matva\source\repos\TrabajoObligatorio1\TrabajoObligatorio1\bin\Debug\netcoreapp3.1\TrabajoObligatorio1.dll
+C:\Users\matva\source\repos\TrabajoObligatorio1\TrabajoObligatorio1\bin\Debug\netcoreapp3.1\TrabajoObligatorio1.pdb
+C:\Users\matva\source\repos\TrabajoObligatorio1\TrabajoObligatorio1\obj\Debug\netcoreapp3.1\TrabajoObligatorio1.vbprojAssemblyReference.cache
+C:\Users\matva\source\repos\TrabajoObligatorio1\TrabajoObligatorio1\obj\Debug\netcoreapp3.1\TrabajoObligatorio1.vbproj.CoreCompileInputs.cache
+C:\Users\matva\source\repos\TrabajoObligatorio1\TrabajoObligatorio1\obj\Debug\netcoreapp3.1\TrabajoObligatorio1.AssemblyInfoInputs.cache
+C:\Users\matva\source\repos\TrabajoObligatorio1\TrabajoObligatorio1\obj\Debug\netcoreapp3.1\TrabajoObligatorio1.AssemblyInfo.vb
+C:\Users\matva\source\repos\TrabajoObligatorio1\TrabajoObligatorio1\obj\Debug\netcoreapp3.1\TrabajoObligatorio1.dll
+C:\Users\matva\source\repos\TrabajoObligatorio1\TrabajoObligatorio1\obj\Debug\netcoreapp3.1\TrabajoObligatorio1.pdb
+C:\Users\matva\source\repos\TrabajoObligatorio1\TrabajoObligatorio1\obj\Debug\netcoreapp3.1\TrabajoObligatorio1.genruntimeconfig.cache

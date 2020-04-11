@@ -1,0 +1,10 @@
+C:\Users\matva\source\repos\TrabajoObligatorio1\BibliotecaClases\bin\Debug\BibliotecaClases.dll
+C:\Users\matva\source\repos\TrabajoObligatorio1\BibliotecaClases\bin\Debug\BibliotecaClases.pdb
+C:\Users\matva\source\repos\TrabajoObligatorio1\BibliotecaClases\bin\Debug\BibliotecaClases.xml
+C:\Users\matva\source\repos\TrabajoObligatorio1\BibliotecaClases\obj\Debug\BibliotecaClases.vbprojAssemblyReference.cache
+C:\Users\matva\source\repos\TrabajoObligatorio1\BibliotecaClases\obj\Debug\BibliotecaClases.Resources.resources
+C:\Users\matva\source\repos\TrabajoObligatorio1\BibliotecaClases\obj\Debug\BibliotecaClases.vbproj.GenerateResource.cache
+C:\Users\matva\source\repos\TrabajoObligatorio1\BibliotecaClases\obj\Debug\BibliotecaClases.vbproj.CoreCompileInputs.cache
+C:\Users\matva\source\repos\TrabajoObligatorio1\BibliotecaClases\obj\Debug\BibliotecaClases.dll
+C:\Users\matva\source\repos\TrabajoObligatorio1\BibliotecaClases\obj\Debug\BibliotecaClases.xml
+C:\Users\matva\source\repos\TrabajoObligatorio1\BibliotecaClases\obj\Debug\BibliotecaClases.pdb
